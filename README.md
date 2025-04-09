@@ -1,1 +1,1 @@
-# PayZup-wallet
+# PayZup Wallet
